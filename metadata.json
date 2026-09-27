@@ -1,0 +1,6 @@
+{
+  "name": "Portfolify — Studio & Motion Architect",
+  "description": "Interactive portfolio UI/UX design studio and animation playground for developers and designers to explore, test, and generate distinctive portfolio styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
